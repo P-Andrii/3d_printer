@@ -1,3 +1,4 @@
+# Work in progress software for the 3d-printer to control the stepper motors, the hot-end and the thermistor readings
 from machine import Pin, ADC, PWM
 from time import sleep
 import uasyncio
